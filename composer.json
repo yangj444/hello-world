@@ -1,0 +1,34 @@
+{  
+  "name": "yangj444/hello-world",  
+  "description": "Yii2 zqy234 terrytest",  
+  "keywords": [  
+    "yangj444",  
+    "hello-world"  
+  ],  
+  "homepage": "https://github.com/yangj444/hello-world",  
+  "type": "yangj444-extension",  
+  "license": "MIT",  
+  "support": {  
+    "source": "https://github.com/yangj444/hello-world"  
+  },  
+  "authors": [  
+    {  
+      "name": "terry water",  
+      "email": "zqy234@126.com"  
+    }  
+  ],  
+  "minimum-stability": "stable",  
+  "require": {  
+    "php": ">=5.4.0"  
+    
+     
+  },  
+  "autoload": {  
+    "psr-4": {  
+      "terry\\": ""  
+    }  
+  },  
+  "config": {  
+    "process-timeout": 1800  
+  }  
+}  
